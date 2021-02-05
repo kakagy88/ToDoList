@@ -1,0 +1,12 @@
+.footer__todo-delete-completed,
+html .footer__todo-delete-completed:active {
+  float: right;
+  position: relative;
+  line-height: 20px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.footer__todo-delete-completed:hover {
+  text-decoration: underline;
+}
